@@ -1,0 +1,16 @@
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\obj\Debug\net5.0\Taschenrechner.csproj.AssemblyReference.cache
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\obj\Debug\net5.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfoInputs.cache
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfo.cs
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\obj\Debug\net5.0\Taschenrechner.csproj.CoreCompileInputs.cache
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\bin\Debug\net5.0\Taschenrechner.exe
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\bin\Debug\net5.0\Taschenrechner.deps.json
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\bin\Debug\net5.0\Taschenrechner.runtimeconfig.json
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\bin\Debug\net5.0\Taschenrechner.runtimeconfig.dev.json
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\bin\Debug\net5.0\Taschenrechner.dll
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\bin\Debug\net5.0\ref\Taschenrechner.dll
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\bin\Debug\net5.0\Taschenrechner.pdb
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\obj\Debug\net5.0\Taschenrechner.dll
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\obj\Debug\net5.0\ref\Taschenrechner.dll
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\obj\Debug\net5.0\Taschenrechner.pdb
+D:\SD-Card\VisualStudios\projects\Taschenrechner\Taschenrechner\obj\Debug\net5.0\Taschenrechner.genruntimeconfig.cache
